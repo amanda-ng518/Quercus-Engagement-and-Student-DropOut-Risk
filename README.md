@@ -1,4 +1,4 @@
-# Quercus-Engagement-and-Student-DropOut-Risk
+# Quercus Engagement as a Predictor of First-Year University Student Dropout Risk: A Logistic Regression Analysis
 
 Student retention is crucial for universities, impacting both institutional success and student outcomes.
 This study examines whether first-year engagement on Quercus, the University of Toronto’s online learning
