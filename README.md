@@ -1,2 +1,13 @@
 # Quercus-Engagement-and-Student-DropOut-Risk
-STA490 Course Project
+
+Student retention is crucial for universities, impacting both institutional success and student outcomes.
+This study examines whether first-year engagement on Quercus, the University of Toronto’s online learning
+management system, predicts second-year dropout risk. We analyzed data from 3,298 students in the 2022–
+2023 cohort, using logistic regression models to assess standardized cumulative Quercus visit counts over
+four observation windows (Weeks 1-4, 1-8, 1-12, and 1-15). Higher Quercus engagement was consistently
+associated with lower dropout probability, with the first four weeks proving sufficiently predictive. However,
+limited model sensitivity suggests engagement data alone may not accurately identify at-risk students. These
+findings highlight the potential of early Quercus disengagement as a warning sign while underscoring the
+need for advanced modeling techniques, such as machine learning or time-series analysis, and additional
+behavioral factors, such as course performance, extracurricular involvement, and support-seeking behaviors,
+to enhance predictive accuracy and support timely interventions.
